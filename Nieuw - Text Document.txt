@@ -1,3 +1,6 @@
-#EXTINF:0 group-title="فيديو كليب عمرو دياب" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amr_Abdul_Baset_Diab.jpg/800px-Amr_Abdul_Baset_Diab.jpg",قمرين
+#EXTM3U
+#EXTINF:0 group-title="YouTube Videos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amr_Abdul_Baset_Diab.jpg/800px-Amr_Abdul_Baset_Diab.jpg",Video 1: EgmXTmj62ic
+https://www.youtube.com/watch?v=EgmXTmj62ic
 
-https://www.youtube.com/watch?v=z6RC2T3Q7rs&ab_channel=Mazzika-%D9%85%D8%B2%D9%8A%D9%83%D8%A7 
+#EXTINF:0 group-title="YouTube Videos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amr_Abdul_Baset_Diab.jpg/800px-Amr_Abdul_Baset_Diab.jpg",Video 2: KLJA-srM_yM
+https://www.youtube.com/watch?v=KLJA-srM_yM
