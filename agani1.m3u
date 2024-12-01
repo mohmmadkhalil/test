@@ -1,21 +1,3 @@
 #EXTM3U
-#EXTINF:0 group-title="YouTube Videos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amr_Abdul_Baset_Diab.jpg/800px-Amr_Abdul_Baset_Diab.jpg",Video 1: EgmXTmj62ic
+#EXTINF:-1,MBC GEOGRAPHIC 1 4K
 https://www.youtube.com/watch?v=EgmXTmj62ic
-
-#EXTINF:0 group-title="YouTube Videos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amr_Abdul_Baset_Diab.jpg/800px-Amr_Abdul_Baset_Diab.jpg",Video 2: KLJA-srM_yM
-https://www.youtube.com/watch?v=KLJA-srM_yM
-
-#EXTINF:0 group-title="YouTube Videos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Amr_Abdul_Baset_Diab.jpg/800px-Amr_Abdul_Baset_Diab.jpg",Video 2: KLJA-srM_yM
-youtube-dl -g "https://www.youtube.com/watch?v=EgmXTmj62ic"
-
-#EXTINF:-1 tvg-id="" tvg-name="Video On Demand" group-title="VOD",Video 1
-https://www.youtube.com/watch?v=EgmXTmj62ic
-
-#EXTINF:-1 tvg-id="" tvg-name="Video On Demand" group-title="VOD",Video 1
-youtube-dl -g "https://www.youtube.com/watch?v=EgmXTmj62ic"
-
-#EXTINF:-1 group-title="VOD",Video 1
-https://www.youtube.com/watch?v=EgmXTmj62ic
-
-#EXTINF:-1 group-title="VOD",Video 1
-youtube-dl -g "https://www.youtube.com/watch?v=EgmXTmj62ic"
